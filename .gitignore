@@ -1,7 +1,0 @@
-*.zip
-*.zip.sha256
-git.sha256
-checksums*.sha256
-update_test.py
-manage-test.ps1
-__pycache__/
